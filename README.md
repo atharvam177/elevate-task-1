@@ -18,16 +18,12 @@ A comprehensive tutorial demonstrating data cleaning and preprocessing technique
 - [Features](#features)
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [Data Processing Steps](#data-processing-steps)
-- [Visualizations](#visualizations)
+- [Data Processing Steps and Visuals](#data-processing-steps)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Learning Outcomes](#learning-outcomes)
 - [Output Files](#output-files)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -141,7 +137,7 @@ The Titanic dataset is automatically downloaded from Kaggle using the `kagglehub
 
 ---
 
-## 🔄 Data Processing Steps
+## 🔄 Data Processing Steps and Visuals
 
 ### **Step 1: Load and Explore Dataset** 📥
 
