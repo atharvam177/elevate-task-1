@@ -1,4 +1,4 @@
-# elevate-task-1
+# ELEVATE-TASK-1
 
 # 🚢 Titanic Dataset - Data Cleaning & Preprocessing Tutorial
 
